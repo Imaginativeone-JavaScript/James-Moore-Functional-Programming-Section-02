@@ -1,0 +1,6 @@
+- [ ] Section 2: JavaScript The Basics 0/5 | 31min
+  - [ ] 07. Getting Started With JavaScript 5min
+  - [ ] 08. Primitive Data Types 10min
+  - [ ] 09. Object Type 6min
+  - [ ] 10. Arrays 3min
+  - [ ] 11. Functions 7min
